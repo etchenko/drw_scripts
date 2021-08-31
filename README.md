@@ -16,4 +16,8 @@ This script finds the earliest starttime and latest endtime in a MARKETPRICE-Rep
 
 This script converts an iotop.log file into csv format. The file is specified at the bottom of the script.
 
+# VENUE SIZES
+
+This script print out the size of all of the data present in each venue of an S3 bucket, which can be piped to an output file
+
 
